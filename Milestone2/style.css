@@ -17,3 +17,27 @@ header{
 header img{
     height: 50px;
 }
+
+main{
+    background-color: #1e2d3b;
+}
+
+.album{
+    background-color: #2e3a46;
+    width: 210px;
+    text-align: center;
+    padding: 15px;
+}
+
+.album img{
+    height: 170px;
+    width: 100%;
+}
+
+h3{
+    color: #fff;
+}
+
+h4{
+    color: #7d7c74;
+}
